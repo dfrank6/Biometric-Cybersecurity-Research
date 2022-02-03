@@ -1,12 +1,11 @@
-# Brain-Computer-Interface-Research
-I performed this research project as part of CyberSAFE@UALR Research Experience for Undergraduates program from June - July 2016.
+# Biometric-Cybersecurity-Research
 
-Our goal with this experiment was to test the idea of a "pass-thought" (like a password, but with your mind) using a consumer-grade EEG (Emotiv Insight https://www.emotiv.com/#). 
+This project was done as part of a Research Experience for Undergraduates program at the University of Arkansas at Little Rock from June - July 2016.
 
-I worked extensively with a co-researcher as well as a PI to do research, develop and execute an experiment, and perform an analysis on the results.
+Our goal was to test the idea of a "pass-thought" (like a password, but with your mind) using a consumer-grade brain computer interface (Emotiv Insight https://www.emotiv.com/#). 
 
-I wrote the code in MATLAB. We tested different kinds of potential "pass-thought" stimuli such as smell, audio, and movement.
+I worked extensively with a co-researcher and PI to construct and carry out our experiment. I also performed digital signal processing in MATLAB to determine that olfactory stimuli were the most effective as a potential "pass-thought".
 
-Here is a link to the final paper: https://ieeexplore.ieee.org/document/7876258
+Here is a link to our final paper: https://ieeexplore.ieee.org/document/7876258
 
-This is just a selection of some of the code and results from the experiment.
+I recommend checking out DATAPROCESS.m!
