@@ -4,7 +4,7 @@ This project was done as part of a Research Experience for Undergraduates progra
 
 I worked with a co-researcher and PI to test the viability of a brainwave biometric user authentication system using a consumer-grade brain computer interface (Emotiv Insight https://www.emotiv.com/#). 
 
-I constructed a filtering and comparison algorithm in MATLAB to process and analyze brainwaves. 
+I constructed a filtering and comparison algorithm in MATLAB to process and analyze the brainwaves. 
 
 We determined that olfactory stimuli were the most accurate sensory events to serve as mental passwords.
 
